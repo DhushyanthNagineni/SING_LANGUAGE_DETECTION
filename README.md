@@ -32,21 +32,30 @@ Use `app.py` to open a camera pop-up, get live input data, and use `model.h5` to
 
    python sign_image_collection.py
 
-2.**Data Preparation**
+2.**Data Preparation**:
+
   python data.py
 
 3.**Model Training**:
+
    python train_model.py
+   
 4.**Live Prediction**:
+
    python app.py
 
 ## Dependencies
-Python 3.x
-MediaPipe
-NumPy
-TensorFlow
-OpenCV
-Install the dependencies using pip 
 
-Live Prediction:
-python app.py
+Python 3.x
+
+MediaPipe
+
+NumPy
+
+TensorFlow
+
+OpenCV
+
+Install the dependencies using `pip install mediapipe tensorflow numpy opencv `
+
+
