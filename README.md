@@ -27,7 +27,6 @@ Run `train_model.py` to train the model. The trained model will be saved as `mod
 Use `app.py` to open a camera pop-up, get live input data, and use `model.h5` to predict the output.
 
 ## How to Run
-
 1. **Image Collection**: 
 
    python sign_image_collection.py
