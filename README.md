@@ -34,8 +34,8 @@ Use `app.py` to open a camera pop-up, get live input data, and use `model.h5` to
 
 2.**Data Preparation**:
 
-  python data.py
-
+   python data.py
+ 
 3.**Model Training**:
 
    python train_model.py
@@ -56,6 +56,7 @@ TensorFlow
 
 OpenCV
 
-Install the dependencies using `pip install mediapipe tensorflow numpy opencv `
+## Install the dependencies using 
+`pip install mediapipe tensorflow numpy opencv `
 
 
